@@ -1,6 +1,19 @@
 # PlaylistManager
 The Playlist Manager is a console-based Java application that allows users to create and manage playlists effortlessly. Users can add songs manually or by extracting metadata from MP3 files, providing a seamless experience for organizing music. 
 
+Features
+
+	•	Create Playlists: Name and create multiple playlists.
+	•	Add Songs:
+	•	Manually input song details (title, artist, duration).
+	•	Extract metadata (title, artist, duration) directly from MP3 files using the mp3agic library.
+	•	View and Manage Playlists:
+	•	Display all playlists and their songs.
+	•	Search for songs by title or artist.
+	•	Sort playlists by title, artist, or duration.
+	•	Delete Songs and Playlists: Remove individual songs or entire playlists.
+	•	Persistent Storage: Automatically save playlists and reload them between sessions.
+
 
 How to Run
 
