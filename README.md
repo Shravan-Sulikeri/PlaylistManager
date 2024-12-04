@@ -47,5 +47,7 @@ Steps
 
 	•	Add a graphical user interface (GUI).
 	•	Support additional audio file formats.
+ 	•	Support integration with Spotify.
+ 
 
  This project is an intuitive and practical tool for playlist management while showcasing advanced Java        programming concepts.
